@@ -4,8 +4,6 @@ console.log('====== Create numbers array with spread operator =====')
 const numbers = [...Array(10).keys()];
 console.log(`The numbers array is: ${numbers}`);
 
-
-
 console.log('====== Style 1: With for of loop ======');
 let evenNumbers = [];
 
